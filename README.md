@@ -1,11 +1,6 @@
 # FireBERT
 Hardening BERT classifiers against adversarial attack
 
-## Paper
-
-Please read our paper: 
-[FireBERT 1.0](). When citing our work, please include a link to this repository.
-
 ## Instructions
 
 Git LFS is required to download the large files located in data and resources.
